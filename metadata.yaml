@@ -1,0 +1,37 @@
+_repo: Washer-the-Raccoon_42575
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Prittie, Edwin John
+    alias: Prittie, Edwin J. (Edwin John)
+    gutenberg_agent_id: '8171'
+    url: http://www.gutenberg.org/2009/agents/8171
+covers:
+- cover_type: archival
+  image_path: 42575-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walsh, George E.
+    alias: Walsh, George Ethelbert
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '8170'
+    url: http://www.gutenberg.org/2009/agents/8170
+description: As a young raccoon, Washer is swept over Rocky Falls and is captured
+  downstream by Sneaky the Wolf who takes him to his den. Luckily, Mother Wolf saves
+  him from being eaten and raises him as one of her cubs.
+gutenberg_issued: '2013-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42575'
+  lccn: ca30001343
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Raccoon -- Juvenile fiction'
+title: Washer the Raccoon
+url: http://www.gutenberg.org/ebooks/42575
